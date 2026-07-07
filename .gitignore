@@ -5,3 +5,4 @@ users.db
 data/*.db
 
 .env
+.venv/
